@@ -34,15 +34,13 @@ I love building modern, responsive and user-friendly web applications with clean
 ---
 
 ## 📊 GitHub Stats
-![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imran7541&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imran7541&layout=compact&theme=radical&hide_border=true)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Imran7541&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imran7541&theme=tokyonight" /> </p>
 
 ---
 
 ## 🌐 Connect with Me
 - 📧 Email: imranrband100@gmail.com
-- 💼 [LinkedIn]linkedin.com/in/imran-fullstack
+- 💼 [LinkedIn]:linkedin.com/in/imran-fullstack
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
 
