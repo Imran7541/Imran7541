@@ -1,5 +1,6 @@
 # Hi 👋, I'm Imran Hosen
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Imran%20Hosen&fontSize=40&fontColor=ffffff" />
 ### Frontend Developer | React & Next.js Enthusiast 🚀 | From Bangladesh 🇧🇩
 
 ---
@@ -28,7 +29,7 @@ Passionate Frontend Developer who loves building modern, clean and responsive we
 Modern React Web Application built with Tailwind CSS  
 **Live Demo:** [View Live](https://symphonious-crisp-3617dc.netlify.app)
 
-*(আরও প্রজেক্ট থাকলে এখানে যোগ করতে পারবে)*
+
 
 ---
 
@@ -37,11 +38,11 @@ Modern React Web Application built with Tailwind CSS
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imran7541&theme=dracula&hide_border=true)
 
 ---
-
 ## 🌐 Connect with Me
-- 📧 **Email:** imranrband100@gmail.com
-- 💼 **LinkedIn:** [Add your LinkedIn profile link here]
+- 📧 Email: imranrband100@gmail.com
+- 💼 LinkedIn:linkedin.com/in/imran-fullstack
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
 ---
 
 **Made with ❤️ in Bangladesh**
