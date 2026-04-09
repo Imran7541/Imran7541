@@ -1,5 +1,7 @@
 # Hi 👋, I'm Imran Hosen
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Imran%20Hosen&fontSize=40&fontColor=ffffff" />
 ### Frontend Developer | React & Next.js Enthusiast 🚀
 
 ---
