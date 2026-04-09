@@ -32,25 +32,24 @@ Modern React Web Application with Tailwind CSS
 ## 📊 GitHub Insights
 
 **My GitHub Statistics**  
-![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imran7541&show_icons=true&theme=radical&hide_border=true)
+![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imran7541&show_icons=true&theme=dracula&hide_border=true)
 
 **My Programming Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imran7541&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imran7541&layout=compact&theme=dracula&hide_border=true)
 
 **Contribution Streak**  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Imran7541&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Imran7541&theme=dracula&hide_border=true)
 
 ---
 
 ## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imran7541&theme=radical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imran7541&theme=dracula&hide_border=true)
 
 ---
 
 ## 🌐 Connect with Me
-- 📧 **Email:imranrband100@gmail.com
-- 💼 **LinkedIn:linkedin.com/in/imran-fullstack
-
+- 📧 **Email:** imranrband100@gmail.com
+- 💼 **LinkedIn:** [Add your real LinkedIn link here]
 
 ---
 
