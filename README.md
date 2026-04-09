@@ -41,9 +41,10 @@ I love building modern, responsive and user-friendly web applications with clean
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: (তোমার ইমেইল দাও)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) ← তোমার রিয়েল লিংক দাও
-- 🌍 [Portfolio](https://yourportfolio.netlify.app) ← পরে যোগ করতে পারবে
+- 📧 Email: imranrband100@gmail.com
+- 💼 [LinkedIn]linkedin.com/in/imran-fullstack
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
 
 ---
 
