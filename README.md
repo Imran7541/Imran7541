@@ -1,25 +1,21 @@
 # Hi 👋, I'm Imran Hosen
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Imran%20Hosen&fontSize=40&fontColor=ffffff" />
-### Frontend Developer | React & Next.js Enthusiast 🚀
+### Frontend Developer | React & Next.js Enthusiast 🚀 | From Bangladesh 🇧🇩
 
 ---
 
 ## 🚀 About Me
-I am a passionate **Frontend Developer** from **Bangladesh 🇧🇩**.  
-I love building modern, responsive and user-friendly web applications with clean code.
+Passionate Frontend Developer who loves building modern, clean and responsive web applications.
 
-- 🔭 Currently building real-world React projects
-- 🌱 Learning **Next.js** & advanced frontend tools
-- 💡 Interested in UI/UX design
-- ⚡ Always improving my skills
+- 🔭 Currently working on real-world React & Tailwind projects
+- 🌱 Learning **Next.js** and modern frontend tools
+- 💡 Focused on beautiful UI/UX & clean code
 
 ---
 
 ## 🛠️ Skills
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B67F?logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -27,21 +23,21 @@ I love building modern, responsive and user-friendly web applications with clean
 ---
 
 ## 💻 Featured Projects
-- **[digitools-projects](https://github.com/Imran7541/digitools-projects)**  
-  Modern React Web Application with Tailwind CSS  
-  **Live Demo:** [Click here](https://symphonious-crisp-3617dc.netlify.app)
+**[digitools-projects](https://github.com/Imran7541/digitools-projects)**  
+Modern React Web Application with Tailwind CSS  
+**Live Demo:** [View Live](https://symphonious-crisp-3617dc.netlify.app)
 
 ---
 
 ## 📊 GitHub Insights
 
-**My GitHub Statistics**
-![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imran7541&show_icons=true&theme=radical&hide_border=true&hide_title=true)
+**My GitHub Statistics**  
+![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imran7541&show_icons=true&theme=radical&hide_border=true)
 
-**My Programming Languages**
+**My Programming Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imran7541&layout=compact&theme=radical&hide_border=true)
 
-**Contribution Overview**
+**Contribution Streak**  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Imran7541&theme=radical&hide_border=true)
 
 ---
@@ -49,16 +45,12 @@ I love building modern, responsive and user-friendly web applications with clean
 ## 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imran7541&theme=radical&hide_border=true)
 
-## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Imran7541&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imran7541&theme=tokyonight" /> </p>
-
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: imranrband100@gmail.com
-- 💼 [LinkedIn]:linkedin.com/in/imran-fullstack
+- 📧 **Email:imranrband100@gmail.com
+- 💼 **LinkedIn:linkedin.com/in/imran-fullstack
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
 
 ---
 
