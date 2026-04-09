@@ -33,6 +33,22 @@ I love building modern, responsive and user-friendly web applications with clean
 
 ---
 
+## 📊 GitHub Insights
+
+**My GitHub Statistics**
+![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imran7541&show_icons=true&theme=radical&hide_border=true&hide_title=true)
+
+**My Programming Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imran7541&layout=compact&theme=radical&hide_border=true)
+
+**Contribution Overview**
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Imran7541&theme=radical&hide_border=true)
+
+---
+
+## 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imran7541&theme=radical&hide_border=true)
+
 ## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Imran7541&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imran7541&theme=tokyonight" /> </p>
 
