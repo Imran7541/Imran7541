@@ -1,62 +1,48 @@
-<h1 align="center">Hi 👋, I'm Imran Hosen</h1>
-<h3 align="center">Frontend Developer | React Developer 🚀</h3>
+# Hi 👋, I'm Imran Hosen
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Imran%20Hosen&fontSize=40&fontColor=ffffff" />
+### Frontend Developer | React & Next.js Enthusiast 🚀
 
 ---
 
 ## 🚀 About Me
-I am a passionate Frontend Developer from Bangladesh 🇧🇩  
-I love building modern, responsive and user-friendly web applications.
+I am a passionate **Frontend Developer** from **Bangladesh 🇧🇩**.  
+I love building modern, responsive and user-friendly web applications with clean code.
 
-- 🔭 I’m currently working on React projects  
-- 🌱 I’m learning Next.js  
-- 💡 Interested in UI/UX design  
-- ⚡ Always improving my skills  
+- 🔭 Currently building real-world React projects
+- 🌱 Learning **Next.js** & advanced frontend tools
+- 💡 Interested in UI/UX design
+- ⚡ Always improving my skills
 
 ---
 
 ## 🛠️ Skills
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,firebase" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B67F?logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/">LinkedIn</a> |
-<a href="https://tiktok.com/">TikTok</a> |
-<a href="https://snapchat.com/">Snapchat</a>
-</p>
+## 💻 Featured Projects
+- **[digitools-projects](https://github.com/Imran7541/digitools-projects)**  
+  Modern React Web Application with Tailwind CSS  
+  **Live Demo:** [Click here](https://symphonious-crisp-3617dc.netlify.app)
 
 ---
 
 ## 📊 GitHub Stats
+![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imran7541&show_icons=true&theme=radical)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Imran7541&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Imran7541&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imran7541&layout=compact&theme=radical)
 
 ---
 
-## 🔥 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imran7541&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 💻 Current Activity
-
-- 🚀 Building real-world React projects  
-- 📚 Learning advanced JavaScript  
-- 🎯 Improving problem solving skills  
+## 🌐 Connect with Me
+- 📧 Email: (তোমার ইমেইল দাও)
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) ← তোমার রিয়েল লিংক দাও
+- 🌍 [Portfolio](https://yourportfolio.netlify.app) ← পরে যোগ করতে পারবে
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
+**Made with ❤️ in Bangladesh**
