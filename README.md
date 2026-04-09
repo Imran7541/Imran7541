@@ -1,6 +1,8 @@
 # Hi 👋, I'm Imran Hosen
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Imran%20Hosen&fontSize=40&fontColor=ffffff" />
+<!-- Typing Animation -->
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+Specialist;Always+Learning;Building+Modern+Web+Apps;Passionate+about+UI%2FUX&font=Fira+Code&color=00FF9F&center=true&vCenter=true&width=600&height=50&size=28&duration=3000&pause=1000)
 ### Frontend Developer | React & Next.js Enthusiast 🚀 | From Bangladesh 🇧🇩
 
 ---
