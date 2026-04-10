@@ -31,17 +31,36 @@ Passionate Frontend Developer who loves building modern, clean and responsive we
 
 ## 💻 Featured Projects
 
-**digitools-projects**  
-Modern React Web Application built with Tailwind CSS  
-**Live Demo:** [View Live](https://symphonious-crisp-3617dc.netlify.app)
+## 📊 GitHub Insights
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Imran7541&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Imran7541&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Imran7541&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
 ---
 
-## 📈 GitHub Contribution
+<!-- ================= ACTIVITY GRAPH ================= -->
+## 📈 Activity Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imran7541&theme=dracula&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imran7541&theme=github-dark" />
+</p>
+
+---
+---
+
+<!-- ================= SNAKE ================= -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Imran7541/Imran7541/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ---
 
