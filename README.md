@@ -1,9 +1,13 @@
 # Hi 👋, I'm Imran Hosen
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Imran%20Hosen&fontSize=40&fontColor=ffffff" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Imran%20Hosen&fontSize=40&fontColor=ffffff&desc=Frontend%20Developer%20|%20React%20Specialist&descSize=20&descAlignY=75" />
+</div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+Specialist;Always+Learning;Building+Modern+Web+Apps;Passionate+about+UI%2FUX&font=Fira+Code&color=00FF9F&center=true&vCenter=true&width=700&height=50&size=28&duration=2500&pause=1200)
-### Frontend Developer | React & Next.js Enthusiast 🚀 | From Bangladesh 🇧🇩
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+Specialist;Always+Learning;Building+Modern+Web+Apps;Passionate+about+UI%2FUX&font=Fira+Code&color=00FF9F&center=true&vCenter=true&width=600&height=50&size=28&duration=2500&pause=1200" />
+</p>
+                    ### Frontend Developer | React & Next.js Enthusiast 🚀 | From Bangladesh 🇧🇩
 
 ---
 
@@ -40,11 +44,24 @@ Modern React Web Application built with Tailwind CSS
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imran7541&theme=dracula&hide_border=true)
 
 ---
+
 ## 🌐 Connect with Me
 - 📧 Email: imranrband100@gmail.com
 - 💼 LinkedIn:linkedin.com/in/imran-fullstack
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
+----
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Imran7541&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 ---
 
 **Made with ❤️ in Bangladesh**
