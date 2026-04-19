@@ -69,18 +69,4 @@ Passionate Frontend Developer who loves building modern, clean and responsive we
 - 💼 LinkedIn:linkedin.com/in/imran-fullstack
 
 ----
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Imran7541&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
----
-
 **Made with ❤️ in Bangladesh**
