@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:1E293B,100:3B82F6&height=220&section=header&text=Imran%20Hosen&fontSize=42&fontColor=ffffff&desc=Software%20%26%20AI%20Solutions%20Engineer%20|%20Full-Stack%20%26%20Mobile&descSize=19&descAlignY=72" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:1E293B,100:3B82F6&height=220&section=header&text=Imran%20Hosen&fontSize=42&fontColor=ffffff&desc=Software%20%26%20AI%20Solutions%20Expert%20|%20Full-Stack%20%26%20Mobile%20Specialist&descSize=18&descAlignY=72" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+%26+AI+Solutions+Engineer;Building+Scalable+Enterprise+Software;Full-Stack+Web+(React%2C+Next.js);Cross-Platform+Mobile+(Flutter+%26+Dart);Solving+Real-World+Business+Bottlenecks&font=Fira+Code&color=38BDF8&center=true&vCenter=true&width=650&height=50&size=24&duration=2400&pause=1200" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+%26+AI+Solutions+Expert;Full-Stack+Web+(React%2C+Next.js);Cross-Platform+Mobile+(Flutter+%26+Dart);Building+Scalable+Business+Software;Solving+Real-World+Business+Bottlenecks&font=Fira+Code&color=38BDF8&center=true&vCenter=true&width=650&height=50&size=24&duration=2400&pause=1200" />
 </p>
 
 <p align="center">
@@ -20,14 +20,14 @@
 
 ---
 
-### 👨‍💻 Executive Summary & Engineering Focus
+### 👨‍💻 Executive Summary & Practical Solutions
 
-I architect and deliver **mission-critical software, autonomous AI systems, and scalable applications** designed to solve tangible business challenges. Combining deep frontend engineering with full-stack logic, cross-platform mobile development (Flutter/Dart), and intelligent automation, I transform complex organizational workflows into seamless digital products.
+I build and deliver **modern software, autonomous AI systems, and scalable applications** designed to solve tangible business challenges. Combining practical frontend craftsmanship with full-stack logic, cross-platform mobile development (Flutter/Dart), and intelligent automation, I transform complex organizational workflows into seamless digital products.
 
-- 🎯 **Current Focus:** High-Performance Enterprise SaaS, Autonomous AI Agents, and Cross-Platform Mobile Applications.
-- 💡 **Business Mindset:** Bridging the gap between engineering complexity and bottom-line operational efficiency.
+- 🎯 **Current Focus:** High-Performance Business SaaS, Autonomous AI Agents, and Cross-Platform Mobile Applications.
+- 💡 **Business Mindset:** Bridging the gap between software capability and bottom-line operational efficiency.
 - 📱 **Mobile & Web:** Native-feel cross-platform apps with Dart/Flutter alongside modern, reactive Next.js web applications.
-- 🤝 **Collaboration:** Open to strategic technical contracts, high-impact remote engineering roles, and enterprise projects.
+- 🤝 **Collaboration:** Open to strategic technical contracts, high-impact remote development roles, and enterprise projects.
 
 ---
 
@@ -66,11 +66,11 @@ I architect and deliver **mission-critical software, autonomous AI systems, and 
 
 ### 💼 Featured Solutions & Business Case Studies
 
-| Solution | Problem Solved & Architectural Highlights | Key Technologies |
+| Solution | Problem Solved & Practical Highlights | Key Technologies |
 | :--- | :--- | :--- |
 | **Institutional ERP & Management App** | Automated hostel, mess, and administrative operations with real-time sync, role-based access, and financial reporting. | Flutter, Dart, REST APIs |
 | **Interactive Issue & Workflow Tracker** | Streamlined internal project management by synchronizing dynamic ticket states, task priorities, and team notifications. | React, Tailwind, Cloud API |
-| **High-Converting Web Platform Suite** | Engineered ultra-responsive, accessible digital storefronts and SaaS landing engines optimized for speed and conversion. | Next.js, React, Modern CSS |
+| **High-Converting Web Platform Suite** | Built ultra-responsive, accessible digital storefronts and SaaS landing engines optimized for speed and conversion. | Next.js, React, Modern CSS |
 
 ---
 
@@ -105,8 +105,8 @@ I architect and deliver **mission-critical software, autonomous AI systems, and 
 ---
 
 <div align="center">
-  <b>Engineering high-impact solutions for forward-thinking organizations.</b><br/>
-  <i>Open for enterprise consulting, high-velocity contracts, and full-stack leadership.</i>
+  <b>Building high-impact solutions for forward-thinking organizations.</b><br/>
+  <i>Open for technical consulting, high-velocity contracts, and product development.</i>
   <br/><br/>
   <sub>Made with dedication in Bangladesh 🇧🇩</sub>
 </div>
