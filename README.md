@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:1E293B,100:3B82F6&height=220&section=header&text=Imran%20Hosen&fontSize=42&fontColor=ffffff&desc=Software%20%26%20AI%20Solutions%20Expert%20|%20Full-Stack%20%26%20Mobile%20Specialist&descSize=18&descAlignY=72" width="100%" />
+  <img src="github_banner.gif" width="100%" alt="Imran Hosen - Software & AI Solutions Expert Banner" />
 </div>
 
 <p align="center">
