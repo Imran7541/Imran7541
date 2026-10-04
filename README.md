@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+%26+AI+Solutions+Expert;Full-Stack+Web+(React%2C+Next.js);Cross-Platform+Mobile+(Flutter+%26+Dart);Building+Scalable+Business+Software;Solving+Real-World+Business+Bottlenecks&font=Fira+Code&color=38BDF8&center=true&vCenter=true&width=650&height=50&size=24&duration=2400&pause=1200" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer+%26+AI+Solutions+Specialist;Building+Intelligent+AI+Software+%26+Smart+Apps;High-Performance+Web+Apps+(React%2C+Next.js%2C+Node);Workflow+Automation+%26+Business+Problem+Solver;Cross-Platform+Mobile+(Flutter+%26+Dart)&font=Fira+Code&color=38BDF8&center=true&vCenter=true&width=750&height=50&size=22&duration=2400&pause=1200" />
 </p>
 
 <p align="center">
