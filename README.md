@@ -1,112 +1,98 @@
 <div align="center">
-  <img src="github_banner.gif" width="100%" alt="Imran Hosen - Software & AI Solutions Expert Banner" />
+
+  <h1>Hi, I'm Imran Hosen 👋</h1>
+  <p><b>Full-Stack Web Developer (MERN) & Mobile App Developer</b></p>
+  <p>Building responsive web applications and cross-platform mobile experiences with modern technologies.</p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/imran-fullstack">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:imrandt2001@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Imran7541">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer+%26+AI+Solutions+Specialist;Building+Intelligent+AI+Software+%26+Smart+Apps;High-Performance+Web+Apps+(React%2C+Next.js%2C+Node);Workflow+Automation+%26+Business+Problem+Solver;Cross-Platform+Mobile+(Flutter+%26+Dart)&font=Fira+Code&color=38BDF8&center=true&vCenter=true&width=750&height=50&size=22&duration=2400&pause=1200" />
-</p>
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/imran-fullstack">
-    <img src="https://img.shields.io/badge/LinkedIn-Imran_Hosen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:imrandt2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Imran7541">
-    <img src="https://img.shields.io/badge/GitHub-23_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### 👨‍💻 About Me
+
+I am a passionate **Full-Stack Developer** based in Bangladesh, focused on building clean, performant, and user-centric web and mobile applications. I enjoy transforming UI/UX designs into responsive frontends, integrating secure backend REST APIs, and writing clean, maintainable code.
+
+- 🔭 **Current Focus:** Full-Stack Web Development with **React, Next.js, Node.js, Express, MongoDB** and Cross-Platform Apps with **Flutter & Dart**.
+- 💡 **Passion:** Solving practical problems, writing clean code, and building intuitive user experiences.
+- 🌱 **Learning & Growing:** Deepening knowledge in scalable architecture, database optimization, and modern cloud deployment workflows.
+- 🎯 **Goals:** Open to Software Engineering, Frontend/Full-Stack Developer positions, and collaborative tech projects.
 
 ---
 
-### 👨‍💻 Executive Summary & Practical Solutions
-
-I build and deliver **modern software, autonomous AI systems, and scalable applications** designed to solve tangible business challenges. Combining practical frontend craftsmanship with full-stack logic, cross-platform mobile development (Flutter/Dart), and intelligent automation, I transform complex organizational workflows into seamless digital products.
-
-- 🎯 **Current Focus:** High-Performance Business SaaS, Autonomous AI Agents, and Cross-Platform Mobile Applications.
-- 💡 **Business Mindset:** Bridging the gap between software capability and bottom-line operational efficiency.
-- 📱 **Mobile & Web:** Native-feel cross-platform apps with Dart/Flutter alongside modern, reactive Next.js web applications.
-- 🤝 **Collaboration:** Open to strategic technical contracts, high-impact remote development roles, and enterprise projects.
-
----
-
-### 🛠️ Technical Competence & Architecture
+### 🛠️ Tech Stack & Skills
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>🧠 AI, Backend & Mobile</h4>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+      <h4>⚡ Frontend</h4>
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" /><br/>
+      <img src="https://img.shields.io/badge/HTML5_%26_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" />
     </td>
     <td width="33%" valign="top">
-      <h4>⚡ Modern Web & UI/UX</h4>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <h4>🧠 Backend & Mobile</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /><br/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /><br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /><br/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
     </td>
     <td width="33%" valign="top">
-      <h4>🚀 Tooling & Delivery</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <h4>🚀 Tools & Platforms</h4>
+      <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /><br/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" /><br/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /><br/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /><br/>
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 💼 Featured Solutions & Business Case Studies
+### 💼 Featured Projects
 
-| Solution | Problem Solved & Practical Highlights | Key Technologies |
-| :--- | :--- | :--- |
-| **Institutional ERP & Management App** | Automated hostel, mess, and administrative operations with real-time sync, role-based access, and financial reporting. | Flutter, Dart, REST APIs |
-| **Interactive Issue & Workflow Tracker** | Streamlined internal project management by synchronizing dynamic ticket states, task priorities, and team notifications. | React, Tailwind, Cloud API |
-| **High-Converting Web Platform Suite** | Built ultra-responsive, accessible digital storefronts and SaaS landing engines optimized for speed and conversion. | Next.js, React, Modern CSS |
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **DigiTools Web Platform** | Modern interactive web application with responsive UI, dynamic utility modules, and fast client-side state management. | React, Tailwind CSS | [Code](https://github.com/Imran7541/digitools-projects) • [Live Demo](https://symphonious-crisp-3617dc.netlify.app) |
+| **E-Commerce Fast** | High-performance online store application featuring product listing, shopping cart functionality, and responsive checkout layout. | JavaScript, Modern Web | [Code](https://github.com/Imran7541/e-commerce-fast) |
+| **GitHub Issue Tracker** | Interactive workflow dashboard for managing project issues, status changes, and task tracking. | JavaScript, REST API, CSS | [Code](https://github.com/Imran7541/b13-a5-github-issue-tracker) |
+| **Nirapad Safety App** | Mobile application built for location assistance, emergency contacts, and real-time safety alert workflows. | Flutter, Dart | [Code](https://github.com/Imran7541/nirapad_safety) |
+| **Developer Portfolio** | Personal portfolio showcasing projects, technical skills, and practical software engineering case studies. | HTML5, CSS3, JavaScript | [Code](https://github.com/Imran7541/emran_project_protfolio) |
 
 ---
 
-### 📊 Engineering Analytics & Velocity
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Imran7541&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Imran7541&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Imran7541&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Imran7541&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Imran7541&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="200" alt="Streak Graph" />
+  <img src="https://streak-stats.demolab.com?user=Imran7541&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="195" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📈 Activity & Contribution Velocity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imran7541&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-### 🐍 Contribution Dynamics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Imran7541/Imran7541/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
 <div align="center">
-  <b>Building high-impact solutions for forward-thinking organizations.</b><br/>
-  <i>Open for technical consulting, high-velocity contracts, and product development.</i>
+  <b>Let's build something great together!</b><br/>
+  <i>Open for job opportunities, contracts, and software engineering roles.</i>
   <br/><br/>
-  <sub>Made with dedication in Bangladesh 🇧🇩</sub>
+  <a href="https://www.linkedin.com/in/imran-fullstack"><b>Connect on LinkedIn</b></a> • <a href="mailto:imrandt2001@gmail.com"><b>Send an Email</b></a>
 </div>
