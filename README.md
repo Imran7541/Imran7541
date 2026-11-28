@@ -17,12 +17,12 @@
 
 ### About Me
 
-I am an **AI-Driven Software Developer** specializing in **Full-Stack Web Development**, **AI Agents & Workflow Automation**, and **Cross-Platform Mobile Applications**. I engineer practical, performant, and reliable digital systems with modern architectures.
+I am an **AI-Driven Software Developer** specializing in **Full-Stack Web Development**, **Autonomous AI Agents & Swarms**, and **Interactive WebGL 3D Experiences**. I engineer high-performance, intelligent digital architectures designed for scalability, low latency, and real-world business automation.
 
-- **Current Focus:** Full-Stack web development using React, Next.js, Node.js, and MongoDB, combined with AI Agent workflows and API automations.
-- **Mobile Development:** Cross-platform mobile engineering with Flutter and Dart.
-- **Engineering Principles:** Clean component architecture, maintainable code, responsive user experiences, and robust REST APIs.
-- **Availability:** Open for software engineering positions, high-impact contract roles, and technical collaborations.
+- **Autonomous AI & Workflow Automation:** Designing multi-agent systems, LLM integrations, and bidirectional messaging gateways (Discord/Telegram).
+- **Frontend & Spatial 3D:** Building interactive WebGL graphics with Three.js/GLSL and reactive web applications with React 19 and Next.js.
+- **Backend & Cloud Infrastructure:** Developing low-latency REST APIs, SQLite/PostgreSQL data persistence, Docker containers, and Cloudflare Edge runtimes.
+- **Availability:** Open for high-impact software engineering roles, enterprise contracts, and innovative technical collaborations.
 
 ---
 
@@ -30,23 +30,22 @@ I am an **AI-Driven Software Developer** specializing in **Full-Stack Web Develo
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Frontend** | React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5, CSS3 |
-| **Backend & Databases** | Node.js, Express.js, RESTful APIs, MongoDB, Authentication |
-| **AI & Automation** | Autonomous AI Agents, Workflow Automation, LLM API Integration, Python |
-| **Mobile** | Flutter, Dart (iOS & Android) |
-| **Tooling & Cloud** | Git, GitHub, VS Code, Postman, Linux, Vercel, Netlify |
+| **Frontend & 3D WebGL** | React 19, Next.js, Three.js, GLSL Shaders, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5 |
+| **AI & Multi-Agent Swarms** | Autonomous AI Agents, Multi-Cloud Gateways, NVIDIA NIM, LLM API Orchestration, Python |
+| **Backend & Databases** | Node.js 22, Express.js, RESTful APIs, SQLite, PostgreSQL, MongoDB, Redis Streams |
+| **Cloud & DevOps** | Cloudflare Workers & Pages, Docker, Render Cloud, Vercel, Linux, Git, GitHub Actions |
+| **Mobile Development** | Flutter, Dart (Cross-Platform iOS & Android) |
 
 ---
 
-### Featured Projects
+### Featured Flagship Projects
 
-| Project | Description | Tech Stack | Links |
+| Project | Description | Core Architecture | Live & Source |
 | :--- | :--- | :--- | :--- |
-| **DigiTools Web Platform** | Modern interactive web utilities platform with responsive interface, modular tools, and fast client-side state handling. | React, Tailwind CSS | [Code](https://github.com/Imran7541/digitools-projects) • [Live Demo](https://symphonious-crisp-3617dc.netlify.app) |
-| **E-Commerce Fast** | High-performance online store application with catalog navigation, cart workflow, and responsive layout. | JavaScript, Modern Web | [Code](https://github.com/Imran7541/e-commerce-fast) |
-| **GitHub Issue Tracker** | Interactive workflow dashboard for managing project issues, status changes, and task tracking. | JavaScript, REST API | [Code](https://github.com/Imran7541/b13-a5-github-issue-tracker) |
-| **Nirapad Safety App** | Mobile application built for location assistance, emergency contacts, and real-time safety alert workflows. | Flutter, Dart | [Code](https://github.com/Imran7541/nirapad_safety) |
-| **Developer Portfolio** | Personal portfolio showcasing projects, engineering background, and production case studies. | HTML5, CSS3, JavaScript | [Code](https://github.com/Imran7541/emran_project_protfolio) • [Live Demo](https://emran-portfolio.pages.dev) |
+| **AI-Agents-Hub: Cloud Gateway** | 24/7 autonomous multi-agent gateway (Hermes, OpenClaw, Strix) running on Render/Vercel with bidirectional Discord/Telegram API routing and 240+ skills. | Node.js 22, Docker, NVIDIA NIM, Agentic Swarms | [GitHub](https://github.com/Imran7541/AI-Agents-Hub) • [Live Engine](https://emran-portfolio.pages.dev) |
+| **Next Label: 400K Particle 3D World** | High-performance WebGL particle universe simulating 409,600 concurrent particles morphing through procedural seasonal states with custom bloom shaders. | Three.js, GLSL Shaders, Web Audio, GSAP, Cloudflare Pages | [GitHub](https://github.com/Imran7541/Next_Label_protfolio) • [Live Demo](https://next-label-portfolio.pages.dev) |
+| **Atelier Vesper: Luxury Spatial Platform** | Editorial spatial architecture platform integrating procedural Three.js WebGL modeling, interactive turnkey cost estimation, and sub-50ms edge delivery. | React 19, Three.js, TypeScript, Cloudflare Workers | [GitHub](https://github.com/Imran7541/atelier-vesper) • [Live Platform](https://atelier-vesper-marketing.imranrband100.workers.dev) |
+| **Familio Bazar: Enterprise E-Commerce & POS** | 24/7 fast-commerce platform with automated multi-channel POS, SQLite dynamic persistence, Dockerized backend, and 16/16 verified test suites. | React 18, Node.js 22, Cloudflare Edge, Docker, SQLite | [GitHub](https://github.com/Imran7541/e-commerce-fast) • [Live Store](https://familio-bazar.pages.dev) |
 
 ---
 
@@ -61,7 +60,7 @@ I am an **AI-Driven Software Developer** specializing in **Full-Stack Web Develo
 
 <div align="center">
   <b>Let's build something impactful together.</b><br/>
-  <i>Available for software engineering roles, contracts, and intelligent application development.</i>
+  <i>Available for software engineering roles, enterprise contracts, and intelligent application development.</i>
   <br/><br/>
   <a href="https://linkedin.com/in/imran-fullstack"><b>LinkedIn</b></a> &nbsp;•&nbsp;
   <a href="https://emran-portfolio.pages.dev"><b>Portfolio</b></a> &nbsp;•&nbsp;
